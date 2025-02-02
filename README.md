@@ -1,0 +1,3 @@
+# UnityEditorMoveDirectory
+
+アセットを右クリックした際のメニューに `Yorozu/Move Directory`　を追加しアセットのディレクトリ移動をフォルダを指定してできるようにします
